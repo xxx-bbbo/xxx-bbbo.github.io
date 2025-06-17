@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://example.com/2025/06/17/test2/</loc>
+    <lastmod>2025-06-17</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2025/06/17/250617test/</loc>
+    <lastmod>2025-06-17</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2025/06/02/%E6%94%B9%E4%BA%86meow%E4%B8%BB%E9%A2%98%E8%AF%95%E8%AF%95%E8%83%BD%E4%B8%8D%E8%83%BD%E7%94%A8/</loc>
+    <lastmod>2025-06-02</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2025/06/02/hello-world/</loc>
+    <lastmod>2025-06-02</lastmod>
+  </url>
+</urlset> 
